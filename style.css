@@ -1,5 +1,5 @@
 
-
+/* task 1 - grund */
 p {
     color: black;
     line-height: 1.5;
@@ -18,5 +18,18 @@ body {
     background-color: #f4f4f4;
 }
 
+/* task 2 - rubriker*/
 
+h1 {
+    color: #003366;
+    text-align: center;
+}
 
+h2 {
+    color: darkgreen;
+    margin-bottom: 10px;
+}
+
+h3 {
+    font-style: italic;
+}
