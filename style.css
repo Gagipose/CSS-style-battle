@@ -44,3 +44,20 @@ ol, ul {
 li {
     padding: 5px;
 }
+
+/* task 4 - bilder */
+
+img {
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+
+main img {
+    width: 200px;
+}
+
+footer img {
+    width: 50px;
+}
