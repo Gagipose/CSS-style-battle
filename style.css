@@ -61,3 +61,25 @@ main img {
 footer img {
     width: 50px;
 }
+
+/* task 5 - navigering */
+
+nav {
+    background-color: #333;
+}
+
+/*Fungerar på både ordered och unordered lists*/
+nav ul, nav ol {
+    display:flex;
+} 
+
+nav a {
+    color: white;
+    padding: 5px;
+}
+
+nav a:hover {
+    background-color: darkblue;
+}
+
+
