@@ -33,3 +33,14 @@ h2 {
 h3 {
     font-style: italic;
 }
+
+/* task 3 - listor */
+
+ol, ul {
+    border-style: solid;
+    border-color: #ccc;
+}
+
+li {
+    padding: 5px;
+}
